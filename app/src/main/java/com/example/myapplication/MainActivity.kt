@@ -78,6 +78,8 @@ class MainActivity : ComponentActivity() {
             }
         }
 
+
+
         AppCenter.start(application,
             "0dd8a356-8187-4fbc-a8c6-2841bdee8300",
             Analytics::class.java,
