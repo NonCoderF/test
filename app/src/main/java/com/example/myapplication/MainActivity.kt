@@ -79,7 +79,7 @@ class MainActivity : ComponentActivity() {
         }
 
         AppCenter.start(application,
-            "cab6101b-fab8-4682-ba7f-97df5232b958",
+            "0dd8a356-8187-4fbc-a8c6-2841bdee8300",
             Analytics::class.java,
             Crashes::class.java
         )
