@@ -66,6 +66,7 @@ class MainActivity : ComponentActivity() {
                             modifier = Modifier
                                 .padding(top = md_layout_margin)
                                 .fillMaxWidth(0.7F)
+
                                 .height(56.dp),
                             onClick = {
                                 Analytics.trackEvent("track evnt")
